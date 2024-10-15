@@ -1,0 +1,13 @@
+C:\Users\rom-g\source\repos\8.6-Collections\Collections\Task_2_Phonebook\bin\Debug\net8.0\Task_2_Phonebook.exe
+C:\Users\rom-g\source\repos\8.6-Collections\Collections\Task_2_Phonebook\bin\Debug\net8.0\Task_2_Phonebook.dll.config
+C:\Users\rom-g\source\repos\8.6-Collections\Collections\Task_2_Phonebook\bin\Debug\net8.0\Task_2_Phonebook.deps.json
+C:\Users\rom-g\source\repos\8.6-Collections\Collections\Task_2_Phonebook\bin\Debug\net8.0\Task_2_Phonebook.runtimeconfig.json
+C:\Users\rom-g\source\repos\8.6-Collections\Collections\Task_2_Phonebook\bin\Debug\net8.0\Task_2_Phonebook.dll
+C:\Users\rom-g\source\repos\8.6-Collections\Collections\Task_2_Phonebook\bin\Debug\net8.0\Task_2_Phonebook.pdb
+C:\Users\rom-g\source\repos\8.6-Collections\Collections\Task_2_Phonebook\obj\Debug\net8.0\Task_2_Phonebook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rom-g\source\repos\8.6-Collections\Collections\Task_2_Phonebook\obj\Debug\net8.0\Task_2_Phonebook.csproj.CoreCompileInputs.cache
+C:\Users\rom-g\source\repos\8.6-Collections\Collections\Task_2_Phonebook\obj\Debug\net8.0\Task_2_Phonebook.dll
+C:\Users\rom-g\source\repos\8.6-Collections\Collections\Task_2_Phonebook\obj\Debug\net8.0\refint\Task_2_Phonebook.dll
+C:\Users\rom-g\source\repos\8.6-Collections\Collections\Task_2_Phonebook\obj\Debug\net8.0\Task_2_Phonebook.pdb
+C:\Users\rom-g\source\repos\8.6-Collections\Collections\Task_2_Phonebook\obj\Debug\net8.0\Task_2_Phonebook.genruntimeconfig.cache
+C:\Users\rom-g\source\repos\8.6-Collections\Collections\Task_2_Phonebook\obj\Debug\net8.0\ref\Task_2_Phonebook.dll

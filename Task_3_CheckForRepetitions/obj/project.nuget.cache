@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ygBqbgbdSdw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rom-g\\source\\repos\\8.6-Collections\\Collections\\Task_3_CheckForRepetitions\\Task_3_CheckForRepetitions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rom-g\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\rom-g\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

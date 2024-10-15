@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Person name="Сидоров Пётр Иванович">
+  <Address>
+    <Street>Яблоневая</Street>
+    <HouseNumber>15</HouseNumber>
+    <FlatNumber>7</FlatNumber>
+  </Address>
+  <Phones>
+    <MobilePhone>+7999-999-99-99</MobilePhone>
+    <FlatPhone>123-45-67</FlatPhone>
+  </Phones>
+</Person>

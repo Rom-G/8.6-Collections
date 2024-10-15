@@ -1,0 +1,7 @@
+C:\Users\rom-g\source\repos\8.6-Collections\Collections\Task_4_NoteBook\bin\Debug\Task_4_NoteBook.exe.config
+C:\Users\rom-g\source\repos\8.6-Collections\Collections\Task_4_NoteBook\bin\Debug\Task_4_NoteBook.exe
+C:\Users\rom-g\source\repos\8.6-Collections\Collections\Task_4_NoteBook\bin\Debug\Task_4_NoteBook.pdb
+C:\Users\rom-g\source\repos\8.6-Collections\Collections\Task_4_NoteBook\obj\Debug\Task_4_NoteBook.csproj.AssemblyReference.cache
+C:\Users\rom-g\source\repos\8.6-Collections\Collections\Task_4_NoteBook\obj\Debug\Task_4_NoteBook.csproj.CoreCompileInputs.cache
+C:\Users\rom-g\source\repos\8.6-Collections\Collections\Task_4_NoteBook\obj\Debug\Task_4_NoteBook.exe
+C:\Users\rom-g\source\repos\8.6-Collections\Collections\Task_4_NoteBook\obj\Debug\Task_4_NoteBook.pdb

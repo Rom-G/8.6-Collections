@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Person name="Чебурашкин Геннадий Шапоклякович">
+  <Address>
+    <Street>Весёлая</Street>
+    <HouseNumber>1</HouseNumber>
+    <FlatNumber>3</FlatNumber>
+  </Address>
+  <Phones>
+    <MobilePhone>89999999999</MobilePhone>
+    <FlatPhone>1234567</FlatPhone>
+  </Phones>
+</Person>

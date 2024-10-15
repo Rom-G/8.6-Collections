@@ -1,0 +1,13 @@
+C:\Users\rom-g\source\repos\8.6-Collections\Collections\Task_3_CheckForRepetitions\bin\Debug\net8.0\Task_3_CheckForRepetitions.exe
+C:\Users\rom-g\source\repos\8.6-Collections\Collections\Task_3_CheckForRepetitions\bin\Debug\net8.0\Task_3_CheckForRepetitions.dll.config
+C:\Users\rom-g\source\repos\8.6-Collections\Collections\Task_3_CheckForRepetitions\bin\Debug\net8.0\Task_3_CheckForRepetitions.deps.json
+C:\Users\rom-g\source\repos\8.6-Collections\Collections\Task_3_CheckForRepetitions\bin\Debug\net8.0\Task_3_CheckForRepetitions.runtimeconfig.json
+C:\Users\rom-g\source\repos\8.6-Collections\Collections\Task_3_CheckForRepetitions\bin\Debug\net8.0\Task_3_CheckForRepetitions.dll
+C:\Users\rom-g\source\repos\8.6-Collections\Collections\Task_3_CheckForRepetitions\bin\Debug\net8.0\Task_3_CheckForRepetitions.pdb
+C:\Users\rom-g\source\repos\8.6-Collections\Collections\Task_3_CheckForRepetitions\obj\Debug\net8.0\Task_3_CheckForRepetitions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rom-g\source\repos\8.6-Collections\Collections\Task_3_CheckForRepetitions\obj\Debug\net8.0\Task_3_CheckForRepetitions.csproj.CoreCompileInputs.cache
+C:\Users\rom-g\source\repos\8.6-Collections\Collections\Task_3_CheckForRepetitions\obj\Debug\net8.0\Task_3_CheckForRepetitions.dll
+C:\Users\rom-g\source\repos\8.6-Collections\Collections\Task_3_CheckForRepetitions\obj\Debug\net8.0\refint\Task_3_CheckForRepetitions.dll
+C:\Users\rom-g\source\repos\8.6-Collections\Collections\Task_3_CheckForRepetitions\obj\Debug\net8.0\Task_3_CheckForRepetitions.pdb
+C:\Users\rom-g\source\repos\8.6-Collections\Collections\Task_3_CheckForRepetitions\obj\Debug\net8.0\Task_3_CheckForRepetitions.genruntimeconfig.cache
+C:\Users\rom-g\source\repos\8.6-Collections\Collections\Task_3_CheckForRepetitions\obj\Debug\net8.0\ref\Task_3_CheckForRepetitions.dll

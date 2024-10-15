@@ -1,0 +1,7 @@
+C:\Users\rom-g\source\repos\8.6-Collections\Collections\Task_3_CheckForRepetitions\bin\Debug\Task_3_CheckForRepetitions.exe.config
+C:\Users\rom-g\source\repos\8.6-Collections\Collections\Task_3_CheckForRepetitions\bin\Debug\Task_3_CheckForRepetitions.exe
+C:\Users\rom-g\source\repos\8.6-Collections\Collections\Task_3_CheckForRepetitions\bin\Debug\Task_3_CheckForRepetitions.pdb
+C:\Users\rom-g\source\repos\8.6-Collections\Collections\Task_3_CheckForRepetitions\obj\Debug\Task_3_CheckForRepetitions.csproj.AssemblyReference.cache
+C:\Users\rom-g\source\repos\8.6-Collections\Collections\Task_3_CheckForRepetitions\obj\Debug\Task_3_CheckForRepetitions.csproj.CoreCompileInputs.cache
+C:\Users\rom-g\source\repos\8.6-Collections\Collections\Task_3_CheckForRepetitions\obj\Debug\Task_3_CheckForRepetitions.exe
+C:\Users\rom-g\source\repos\8.6-Collections\Collections\Task_3_CheckForRepetitions\obj\Debug\Task_3_CheckForRepetitions.pdb

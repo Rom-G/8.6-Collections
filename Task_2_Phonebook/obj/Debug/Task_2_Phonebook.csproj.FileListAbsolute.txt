@@ -1,0 +1,7 @@
+C:\Users\rom-g\source\repos\8.6-Collections\Collections\Task_2_Phonebook\bin\Debug\Task_2_Phonebook.exe.config
+C:\Users\rom-g\source\repos\8.6-Collections\Collections\Task_2_Phonebook\bin\Debug\Task_2_Phonebook.exe
+C:\Users\rom-g\source\repos\8.6-Collections\Collections\Task_2_Phonebook\bin\Debug\Task_2_Phonebook.pdb
+C:\Users\rom-g\source\repos\8.6-Collections\Collections\Task_2_Phonebook\obj\Debug\Task_2_Phonebook.csproj.AssemblyReference.cache
+C:\Users\rom-g\source\repos\8.6-Collections\Collections\Task_2_Phonebook\obj\Debug\Task_2_Phonebook.csproj.CoreCompileInputs.cache
+C:\Users\rom-g\source\repos\8.6-Collections\Collections\Task_2_Phonebook\obj\Debug\Task_2_Phonebook.exe
+C:\Users\rom-g\source\repos\8.6-Collections\Collections\Task_2_Phonebook\obj\Debug\Task_2_Phonebook.pdb

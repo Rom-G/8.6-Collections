@@ -1,0 +1,7 @@
+C:\Users\rom-g\source\repos\8.6-Collections\Collections\Task_1_List\bin\Debug\Task_1_List.exe.config
+C:\Users\rom-g\source\repos\8.6-Collections\Collections\Task_1_List\bin\Debug\Task_1_List.exe
+C:\Users\rom-g\source\repos\8.6-Collections\Collections\Task_1_List\bin\Debug\Task_1_List.pdb
+C:\Users\rom-g\source\repos\8.6-Collections\Collections\Task_1_List\obj\Debug\Task_1_List.csproj.AssemblyReference.cache
+C:\Users\rom-g\source\repos\8.6-Collections\Collections\Task_1_List\obj\Debug\Task_1_List.csproj.CoreCompileInputs.cache
+C:\Users\rom-g\source\repos\8.6-Collections\Collections\Task_1_List\obj\Debug\Task_1_List.exe
+C:\Users\rom-g\source\repos\8.6-Collections\Collections\Task_1_List\obj\Debug\Task_1_List.pdb
